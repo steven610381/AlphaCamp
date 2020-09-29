@@ -11,7 +11,7 @@ Node.js
 ***
 ## Executing
 1.使用git或cmd，Clone此專案到本機電腦
-<pre><code>git clone https://github.com/steven610381/AlphaCamp.git</pre></code>
+<pre><code>git clone https://github.com/steven610381/RestaurantList.git</pre></code>
 2.打開終端機切換到restaurant資料夾
 <pre><code>cd RestaurantList</pre></code>
 3.安裝相關套件
